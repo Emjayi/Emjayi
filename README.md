@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mjsepahi
+- 👋 Hi, I’m @Emjayi
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning front-end web development
 - 💞️ I’m looking to collaborate on ...
