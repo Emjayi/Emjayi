@@ -5,7 +5,7 @@ const myProfile = {
   "age": 24,
   "mySkills": "HTML, CSS, JavaScript, React.js, Next.js, PHP, Node.js, Tailwind CSS",
   "experience": "4 yrs",
-  "isOpenToWork": true,
+  "isOpenToWork": true
   // DM for collaboration
 }
 ```
