@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @Emjayi
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning front-end web development
-- 💞️ I’m looking to collaborate on your projects
--   Always smile :)
+```
+const myProfile = {
+  "firstName": "Emjayi",
+  "lastName": "Sepahi",
+  "age": 24,
+  "mySkills": "HTML, CSS, JavaScript, React.js, Next.js, PHP, Node.js, Tailwind CSS",
+  "experience": "4 yrs",
+  "isOpenToWork": true,
+  // DM for collaboration
+}
+```
