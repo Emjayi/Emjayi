@@ -10,3 +10,4 @@ const myProfile = {
   // DM for collaboration
 }
 ```
+[![Emjayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=emjayi)](https://github.com/emjayi/github-readme-stats)
