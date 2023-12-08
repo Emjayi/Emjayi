@@ -10,4 +10,4 @@ const myProfile = {
   // DM for collaboration
 }
 ```
-[![Emjayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=emjayi&show_icons=true&theme=dracula)](https://github.com/emjayi/github-readme-stats)
+[![Emjayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=emjayi&show_icons=true&theme=dracula)](https://github.com/emjayi) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emjayi&layout=donut)](https://github.com/emjayi)
