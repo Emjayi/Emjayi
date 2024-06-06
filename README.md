@@ -1,11 +1,11 @@
-> I'm !not a front-end Developer
+> I'm !not a senior front-end Developer
 ```
 const myProfile = {
-  "firstName": "Emjayi",
+  "firstName": "Mohammad Javad",
   "lastName": "Sepahi",
   "age": 24,
-  "mySkills": "HTML, CSS, JavaScript, React.js, Next.js, PHP, Node.js, Tailwind CSS",
-  "experience": "4 yrs",
+  "knowledge": "React.js, Redux, Next.js, Tailwind CSS, Framer-motion, RESTful API, Postgres, GraphQL",
+  "experience": "3 yrs",
   "isOpenToWork": true
   // DM for collaboration
 }
