@@ -4,7 +4,7 @@ const myProfile = {
   "firstName": "Mohammad Javad",
   "lastName": "Sepahi",
   "age": 24,
-  "knowledge": "React.js, Redux, Next.js, Tailwind CSS, Framer-motion, RESTful API, Postgres, GraphQL",
+  "knowledge": "React.js, Redux, Next.js, Tailwind CSS, Framer-motion, Postgres, GraphQL",
   "experience": "3 yrs",
   "isOpenToWork": true
   // DM for collaboration
